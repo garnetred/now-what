@@ -1,11 +1,11 @@
 language: node_js
 node_js:
-- node
+  - node
 notifications:
   email: false
 deploy:
   provider: heroku
   api_key:
     secure: Lnf/M+EYl6V4izKvX6PxaCu0E6v8rIz2jDfksujCGqCC1nelcNeJmjekIoeD7G1Up1qCc9M8x7oddXoMblPcZhhmkQtHpCMj6fTVY6TtgOA3N6EwwZW3LHWWBTDwS/zk7V+OHIEJuu86L25e7brIK1Js9KhhoJ4GJQvmcFmh4jFp43FE+8nPcXv8YsSXu5Iw2KIjuTyaiOANTxQsQwTp7TWiF/7GFqiLih+BWguOfE1W9hMu0XJErBKsCtXlHLKMu6xfxB8ldi3xhTcs8qmMQuLMF9N9ry8q4qCmT0N8sL4uSe27zgTjUNKHSqeR93i0mg5y2QVA3gYk+HsxnwL30689zUvvq69fz5muxoacAoy5tMKMwVL5Cxj7BZ9EmQXx4NjkwcCn1BVeldr5QGOjnwIg8Sl/rOlQw0hvmmLqPnPmKTfSDRcblJMcJbQcM48oYU00xm8jhW4pRtp99kghQ/t5QGPzxpeo+Vp0RkaSZ4cwNRGEjyFKEuY4F0u/CqsjBacRGhF8m9Ew7tT083nJZgN2JzIxr9H5Df3zoRv3+OQ1ydwQPVI/sny86Tr0K7cRcI7zHkCv3OO1dDmDw1lgqJVFmgQ6AwcJ5h2gbx4TctlAVZzeryKWgRSmY/4MJ4V1G4AOUuciiTe5eBK2TZmt8TahLCn+Dja1K/f9kCuGe+o=
-app: nowwhaaat
-skip_cleanup: true
+  app: nowwhaaat
+  skip_cleanup: true
