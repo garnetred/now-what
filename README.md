@@ -1,4 +1,4 @@
- # Now What!?
+ # Now What!? [![Build Status](https://travis-ci.org/garnetred/now-what.svg?branch=master)](https://travis-ci.org/garnetred/now-what)
 ​
 ## Abstract
 Now What is a Turing group project that helps a user find their next movie, tv show, book, game or podcast. The user is able to search for something and see similar results. They can then see details including descriptions of the results as well as links to more information. The user is able to favorite items which persist on page refresh. 
